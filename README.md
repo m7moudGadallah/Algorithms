@@ -7,6 +7,6 @@
 
 - ***[Week1](./Assignments/Week1/)***
 
-## Alo && DS implementation
+## Algo && DS implementation
 
 - ***UnionFind*** ***[java](./Algo%26DS_implementation/UnionFind/UnionFind.java)*** & ***[C++](./Algo%26DS_implementation/UnionFind/UnionFind.cpp)***
