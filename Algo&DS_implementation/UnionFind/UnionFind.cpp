@@ -28,6 +28,6 @@ class UnionFind {
         }
 
         bool connected(int p, int q) {
-            return id[p] == id[q];
+            return find(p) == find(q);
         }
 };
